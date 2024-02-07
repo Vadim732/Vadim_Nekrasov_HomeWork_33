@@ -1,0 +1,52 @@
+	Countries:
+Id		Name
+1		Malta
+2		Kyrgyzstan
+3		Vatican
+4		Luxembourg
+
+	Regions:
+Id		Region id		Name
+1		2			Jalal-Abad
+2		2			Osh
+3		1			Gozo
+4		2			Chuy
+5		3			Vatican
+6		4			Grevenmaker
+7		2			Batken
+8		1			Malta
+9		2			Talas
+10		2			Issyk-Kul
+11		4			Diekirch
+12		2			Naryn
+13		1			Valletta
+
+	Settlements:
+Id		Settlement id		Name					Geographical position				Population			Climate			Description
+1		3				Victoria				Central part of the island			6,900				15°C - 30°C		Main city of Gozo.
+2		9				Talas					Central part of the region			40,000			-10°C	- 25°C		Administrative center of the Talas region.
+3		4				Bishkek				Central part of the region			1,000,000			-5°C	- 30°C		The capital and largest city of Kyrgyzstan.
+4		1				Jalal-Abad				Central part of the region			75,000			-3°C	- 28°C		Administrative center of the region.
+5		9				Kara-Buura				Southwestern part of the region		10,000			-11°C	 - 26°C		A city located in the valley of the Talas River.
+6		10				Issyk-Kul				East Coast						75,000			-10°C	 - 25°C		A large city located on the shores of Lake Issyk-Kul.
+7		1				Tash-Kumyr				Northern part of the region		30,000			-5°C	- 26°C		A city in the picturesque valley of the Kumardyk River.
+8		10				Balykchy				West Coast						40,000			-8°C	- 28°C		Known for its beaches and water sports opportunities.
+9		8				Sliema				Northeast coast					15,000			15°C - 30°C		Popular tourist area.
+10		9				Manas					North-eastern part of the region		15,000			-12°C - 24°C		A city named after the legendary Kyrgyz hero, Manas.
+11		4				Tokmok				North-eastern part of the region		60,000			-7°C - 28°C		City with industrial enterprises and agriculture.
+12		10				Cholpon-Ata			North coast					30,000			-5°C	- 30°C		Popular among tourists due to its beaches and cultural events.
+13		8				Mdina					Central part of the island			300				15°C - 30°C		Known as the "Silent City", the medieval capital of Malta.
+14		2				Uzgen					Southwestern part of the city		50,000			-5°C	- 31°C		An ancient city famous for its historical monuments.
+15		12				Naryn					Central part of the region			45,000			-15°C - 25°C		A city located on the banks of the Naryn River in a mountainous area.
+16		12				At-Bashy				Northwestern part of the region		10,000			-20°C - 22°C		A small town located in a picturesque valley among the mountains.
+17		8				Rabat					Central part of the island			11,000			15°C - 30°C		Historical city.
+18		12				Kochkor				South-eastern part of the region		20,000			-18°C	 - 24°C		A city located on the banks of the Naryn River in a fertile valley.
+19		4				Kant					Southwestern part of the region		40,000			-6°C - 29°C		A city important as a transport hub and agricultural center.
+20		6				Grevenmaker			South-eastern part of the country	6,000				0°C - 25°C			Known for its winemaking traditions and beautiful nature.
+21		5				Vatican				Central part of the state			800				5°C - 30°C			City-state located in Rome, Italy.
+22		2				Kara-Suu				North-eastern part of the city		25,000			-4°C - 30°C		A city with developed industry and agriculture.
+23		6				Remich				South-eastern part of the country	3,000				1°C - 26°C			Known for its wine-producing ant tourist attractions.
+24		11				Diekirch				North-central part of the country	7,000				0°C - 23°C			Known for its historical buildings.
+25		4				Kara-Balta				Southwestern part of the region		35,000			-7°C	- 28°C		Industrial city with large enterprises.
+26		2				Osh					Central part of the city			300,000			-3°C	- 30°C		Second largest city in Kyrgyzstan.
+27		13				Valletta				Central Malta					6,500				12°C - 29°C		The city is rich in history, architecture and historical monuments.

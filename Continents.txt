@@ -1,0 +1,23 @@
+	Continents:
+Id		Name
+1		Africa
+2		Antarctica
+3		Asia
+4		Europe
+5		North America
+6		South America
+7		Australia
+
+	Attractions:
+Id		Continent id		Attraction				Geographical position				Origin				Description
+1		2				Lake Vostok			Under the Antarctic glacier		Natural				The largest lake under a glacier
+2		6				Hollywood sign			USA (California)					Created by people		The sign that has become a symbol of American cinema.
+3		1				Mount Kilimanjaro		Tanzania						Natural				Highest mountain in Africa
+4		5				Grand Canyon			USA (Arizona)					Natural				A huge canyon carved by the Colorado River.
+5		3				Machu Picchu			Peru							Created by people		An ancient Inca city located on top of a mountain in the high Andes.
+6		6				Niagara Falls			USA and Canada					Natural				One of the most powerful waterfalls in the world.
+7		7				Park Royal Botanic		Sydney						Created by people		One of the oldest parks in Australia.
+8		3				Mountains of Tibet		Tibet							Natural				Majestic mountain landscapes, including the highest point on Earth - Everest.
+9		6				Amber Beach			Canada (Ontario)					Natural				The coast of Lake Ontario covered with amber stones.
+10		4				Coliseum				Italy							Created by people		Arena built in Rome in the 1st century AD.
+

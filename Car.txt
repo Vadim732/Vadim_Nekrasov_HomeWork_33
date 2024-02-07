@@ -1,0 +1,19 @@
+	Manufacturers:
+Id		Name
+1		Mercedes
+2		BMW
+3		Honda
+4		Toyota
+5		Porshe
+
+	Models:
+Id		Manufacturer id		Name			Engine's type		Engine capacity			Drive unit
+1		3				Accord		Petrol			2.0 litres				Front
+2		1				GLE			Hybrid			3.0 litres				Full
+3		4				Corolla		Petrol			1.8 litres				Front
+4		1				A-Class		Petrol			1.3 litres				Front
+5		2				5 Series		Diesel			2.0 litres				Rear
+6		4				Camry			Petrol			2.5 litres				Front
+7		5				Panamera		Hybrid			2.9 litres				Full
+8		3				Insight		Hybrid			1.5 litres				Front
+
